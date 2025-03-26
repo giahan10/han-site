@@ -1,3 +1,5 @@
+<hea>
+<style>
 h2 { color:# FFC1C1 ; font-family : Verdana}
 h3 { color:# FFAEB9 ; }
 label {font-size: 15px;font-weight: bold;}
@@ -17,3 +19,4 @@ background-color: #FFCCCC; color: black;}
 .cot1.side {width : 30% ;}
 .cot2.side {width : 70% ;}
 .footer{color : red ; background-color : #FFCC99 ; text-align : center ; padding : 2px ;}
+</style>
